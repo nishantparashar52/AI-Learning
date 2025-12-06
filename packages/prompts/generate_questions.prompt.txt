@@ -1,0 +1,5 @@
+
+# generateQuestions.prompt (JSON array of Question)
+Produce 20 MCQ questions for a given conceptKey and objectiveKey.
+Use Indian contexts (₹, buses, markets). Difficulty mix: 60% easy, 40% medium.
+Strictly conform to packages/schemas/question.schema.json.

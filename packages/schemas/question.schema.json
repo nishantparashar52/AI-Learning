@@ -1,0 +1,21 @@
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Question",
+  "type": "object",
+  "properties": {
+    "conceptKey": { "type": "string" },
+    "objectiveKey": { "type": "string" },
+    "class": { "type": "integer" },
+    "type": { "type": "string", "enum": ["mcq", "numeric"] },
+    "stem": { "type": "string" },
+    "options": { "type": "array", "items": { "type": "string" } },
+    "answerIndex": { "type": "integer" },
+    "answerNumeric": { "type": "number" },
+    "difficulty": { "type": "string", "enum": ["easy", "medium", "hard"] },
+    "skills": { "type": "array", "items": { "type": "string" } },
+    "explanation": { "type": "string" },
+    "version": { "type": "string" }
+  },
+  "required": ["conceptKey", "objectiveKey", "class", "type", "stem", "difficulty"]
+}

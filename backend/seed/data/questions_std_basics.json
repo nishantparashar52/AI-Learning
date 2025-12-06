@@ -1,0 +1,182 @@
+[
+  {
+    "type": "mcq",
+    "stem": "Speed if distance=60km, time=1h",
+    "options": [
+      "30 km/h",
+      "60 km/h",
+      "90 km/h",
+      "120 km/h"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "speed",
+    "class": 6,
+    "difficulty": "easy",
+    "skills": [
+      "speed"
+    ],
+    "explanation": "S=D/T"
+  },
+  {
+    "type": "mcq",
+    "stem": "Convert 36 km/h to m/s",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answerIndex": 0,
+    "objectiveKey": "unit_conversion",
+    "class": 6,
+    "difficulty": "medium",
+    "skills": [
+      "conversion"
+    ],
+    "explanation": "\u00d71000/3600"
+  },
+  {
+    "type": "mcq",
+    "stem": "Distance if speed=50 km/h, time=2 h",
+    "options": [
+      "50",
+      "80",
+      "90",
+      "100"
+    ],
+    "answerIndex": 3,
+    "objectiveKey": "speed",
+    "class": 6,
+    "difficulty": "easy",
+    "skills": [
+      "distance"
+    ],
+    "explanation": "D=ST"
+  },
+  {
+    "type": "mcq",
+    "stem": "Time if distance=120 km, speed=60 km/h",
+    "options": [
+      "1 h",
+      "2 h",
+      "3 h",
+      "4 h"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "speed",
+    "class": 6,
+    "difficulty": "easy",
+    "skills": [
+      "time"
+    ],
+    "explanation": "T=D/S"
+  },
+  {
+    "type": "mcq",
+    "stem": "Convert 72 km/h to m/s",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "22"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "unit_conversion",
+    "class": 6,
+    "difficulty": "medium",
+    "skills": [
+      "conversion"
+    ],
+    "explanation": "\u00d71000/3600"
+  },
+  {
+    "type": "mcq",
+    "stem": "Bus covers 150 km in 3 h \u2192 speed?",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "55"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "speed",
+    "class": 6,
+    "difficulty": "easy",
+    "skills": [
+      "speed"
+    ],
+    "explanation": "150/3"
+  },
+  {
+    "type": "mcq",
+    "stem": "Runner: 100 m in 10 s \u2192 m/s?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "speed",
+    "class": 6,
+    "difficulty": "easy",
+    "skills": [
+      "speed"
+    ],
+    "explanation": "100/10"
+  },
+  {
+    "type": "mcq",
+    "stem": "Convert 10 m/s to km/h",
+    "options": [
+      "18",
+      "28",
+      "36",
+      "45"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "unit_conversion",
+    "class": 6,
+    "difficulty": "medium",
+    "skills": [
+      "conversion"
+    ],
+    "explanation": "\u00d73.6"
+  },
+  {
+    "type": "mcq",
+    "stem": "Time: distance=75 km, speed=25 km/h",
+    "options": [
+      "2 h",
+      "3 h",
+      "4 h",
+      "5 h"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "speed",
+    "class": 6,
+    "difficulty": "easy",
+    "skills": [
+      "time"
+    ],
+    "explanation": "75/25=3"
+  },
+  {
+    "type": "mcq",
+    "stem": "Distance: speed=12 m/s, time=50 s",
+    "options": [
+      "500 m",
+      "600 m",
+      "700 m",
+      "800 m"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "speed",
+    "class": 6,
+    "difficulty": "medium",
+    "skills": [
+      "distance"
+    ],
+    "explanation": "12\u00d750"
+  }
+]

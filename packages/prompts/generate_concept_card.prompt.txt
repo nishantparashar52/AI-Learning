@@ -1,0 +1,5 @@
+
+# generateConceptCard.prompt (JSON-only)
+You are generating a ConceptCard for Indian school students.
+Output STRICT JSON conforming to packages/schemas/concept_card.schema.json.
+Include: story (Indian context), examples (with ₹), misconception, practice_hint, objectives.

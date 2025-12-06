@@ -1,0 +1,182 @@
+[
+  {
+    "type": "mcq",
+    "stem": "Riya has 35 mangoes and gives 12 away. How many left?",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "word_problems",
+    "class": 3,
+    "difficulty": "easy",
+    "skills": [
+      "subtraction"
+    ],
+    "explanation": "35-12=23"
+  },
+  {
+    "type": "mcq",
+    "stem": "\u20b925 + \u20b930 = ?",
+    "options": [
+      "\u20b945",
+      "\u20b950",
+      "\u20b955",
+      "\u20b960"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "sum_within_100",
+    "class": 3,
+    "difficulty": "easy",
+    "skills": [
+      "addition"
+    ],
+    "explanation": "25+30=55"
+  },
+  {
+    "type": "mcq",
+    "stem": "A shop sells 68 pencils, then buys 15 more. Total?",
+    "options": [
+      "73",
+      "81",
+      "83",
+      "85"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "word_problems",
+    "class": 3,
+    "difficulty": "medium",
+    "skills": [
+      "addition"
+    ],
+    "explanation": "68+15=83"
+  },
+  {
+    "type": "mcq",
+    "stem": "90 \u2212 47 = ?",
+    "options": [
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "sum_within_100",
+    "class": 3,
+    "difficulty": "medium",
+    "skills": [
+      "subtraction"
+    ],
+    "explanation": "90-47=43"
+  },
+  {
+    "type": "mcq",
+    "stem": "Bus had 50 passengers; 18 got off. Remaining?",
+    "options": [
+      "30",
+      "31",
+      "32",
+      "33"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "word_problems",
+    "class": 3,
+    "difficulty": "easy",
+    "skills": [
+      "subtraction"
+    ],
+    "explanation": "50-18=32"
+  },
+  {
+    "type": "mcq",
+    "stem": "Add: 27 + 36 = ?",
+    "options": [
+      "61",
+      "62",
+      "63",
+      "64"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "sum_within_100",
+    "class": 3,
+    "difficulty": "easy",
+    "skills": [
+      "addition"
+    ],
+    "explanation": "27+36=63"
+  },
+  {
+    "type": "mcq",
+    "stem": "A box had 80 chocolates; 25 were eaten. Left?",
+    "options": [
+      "52",
+      "54",
+      "55",
+      "56"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "word_problems",
+    "class": 3,
+    "difficulty": "medium",
+    "skills": [
+      "subtraction"
+    ],
+    "explanation": "80-25=55"
+  },
+  {
+    "type": "mcq",
+    "stem": "Sum: 45 + 19 = ?",
+    "options": [
+      "62",
+      "63",
+      "64",
+      "65"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "sum_within_100",
+    "class": 3,
+    "difficulty": "medium",
+    "skills": [
+      "addition"
+    ],
+    "explanation": "45+19=64"
+  },
+  {
+    "type": "mcq",
+    "stem": "64 \u2212 28 = ?",
+    "options": [
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "sum_within_100",
+    "class": 3,
+    "difficulty": "easy",
+    "skills": [
+      "subtraction"
+    ],
+    "explanation": "64-28=36"
+  },
+  {
+    "type": "mcq",
+    "stem": "Train had 120 passengers; 35 boarded. New total?",
+    "options": [
+      "145",
+      "150",
+      "155",
+      "160"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "word_problems",
+    "class": 3,
+    "difficulty": "medium",
+    "skills": [
+      "addition"
+    ],
+    "explanation": "120+35=155"
+  }
+]

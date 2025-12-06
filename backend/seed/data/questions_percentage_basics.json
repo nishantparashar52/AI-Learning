@@ -1,0 +1,182 @@
+[
+  {
+    "type": "mcq",
+    "stem": "20% of \u20b9500 = ?",
+    "options": [
+      "\u20b980",
+      "\u20b990",
+      "\u20b9100",
+      "\u20b9120"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "percent_of_number",
+    "class": 5,
+    "difficulty": "easy",
+    "skills": [
+      "percentage"
+    ],
+    "explanation": "0.2\u00d7500=100"
+  },
+  {
+    "type": "mcq",
+    "stem": "25% discount on \u20b91200 \u2192 sale price?",
+    "options": [
+      "\u20b9900",
+      "\u20b9950",
+      "\u20b91000",
+      "\u20b91050"
+    ],
+    "answerIndex": 0,
+    "objectiveKey": "discount",
+    "class": 5,
+    "difficulty": "medium",
+    "skills": [
+      "percentage"
+    ],
+    "explanation": "1200-300=900"
+  },
+  {
+    "type": "mcq",
+    "stem": "10% of \u20b9850 = ?",
+    "options": [
+      "\u20b985",
+      "\u20b995",
+      "\u20b975",
+      "\u20b980"
+    ],
+    "answerIndex": 0,
+    "objectiveKey": "percent_of_number",
+    "class": 5,
+    "difficulty": "easy",
+    "skills": [
+      "percentage"
+    ],
+    "explanation": "0.1\u00d7850"
+  },
+  {
+    "type": "mcq",
+    "stem": "Increase \u20b9400 by 15%",
+    "options": [
+      "\u20b9440",
+      "\u20b9450",
+      "\u20b9460",
+      "\u20b9470"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "percent_of_number",
+    "class": 5,
+    "difficulty": "medium",
+    "skills": [
+      "increase"
+    ],
+    "explanation": "400+60=460"
+  },
+  {
+    "type": "mcq",
+    "stem": "GST 18% on \u20b91000 \u2192 total?",
+    "options": [
+      "\u20b91180",
+      "\u20b91160",
+      "\u20b91200",
+      "\u20b91150"
+    ],
+    "answerIndex": 0,
+    "objectiveKey": "percent_of_number",
+    "class": 5,
+    "difficulty": "medium",
+    "skills": [
+      "tax"
+    ],
+    "explanation": "add 18%"
+  },
+  {
+    "type": "mcq",
+    "stem": "\u20b9500 decreased by 20% = ?",
+    "options": [
+      "\u20b9380",
+      "\u20b9390",
+      "\u20b9400",
+      "\u20b9420"
+    ],
+    "answerIndex": 2,
+    "objectiveKey": "percent_of_number",
+    "class": 5,
+    "difficulty": "easy",
+    "skills": [
+      "decrease"
+    ],
+    "explanation": "500-100"
+  },
+  {
+    "type": "mcq",
+    "stem": "What percent is 45 of 90?",
+    "options": [
+      "45%",
+      "50%",
+      "55%",
+      "60%"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "percent_of_number",
+    "class": 5,
+    "difficulty": "medium",
+    "skills": [
+      "ratio"
+    ],
+    "explanation": "45/90 = 0.5"
+  },
+  {
+    "type": "mcq",
+    "stem": "Profit: buy \u20b9800, sell \u20b91000 \u2192 %?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "18%"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "percent_of_number",
+    "class": 5,
+    "difficulty": "medium",
+    "skills": [
+      "profit"
+    ],
+    "explanation": "200/800=25%"
+  },
+  {
+    "type": "mcq",
+    "stem": "Discount 30% on \u20b92000 \u2192 sale?",
+    "options": [
+      "\u20b91400",
+      "\u20b91350",
+      "\u20b91500",
+      "\u20b91600"
+    ],
+    "answerIndex": 0,
+    "objectiveKey": "discount",
+    "class": 5,
+    "difficulty": "medium",
+    "skills": [
+      "discount"
+    ],
+    "explanation": "0.7\u00d72000"
+  },
+  {
+    "type": "mcq",
+    "stem": "Find 12% of \u20b9650",
+    "options": [
+      "\u20b972",
+      "\u20b978",
+      "\u20b980",
+      "\u20b984"
+    ],
+    "answerIndex": 1,
+    "objectiveKey": "percent_of_number",
+    "class": 5,
+    "difficulty": "medium",
+    "skills": [
+      "percentage"
+    ],
+    "explanation": "0.12\u00d7650=78"
+  }
+]

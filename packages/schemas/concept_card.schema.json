@@ -1,0 +1,15 @@
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ConceptCard",
+  "type": "object",
+  "properties": {
+    "conceptKey": { "type": "string" },
+    "class": { "type": "integer" },
+    "language": { "type": "string" },
+    "sections": { "type": "array", "items": { "type": "object", "properties": { "type": {"type":"string"}, "text": {"type":"string"}, "items": {"type":"array", "items": {"type":"string"}} } } },
+    "objectives": { "type": "array", "items": { "type": "object", "properties": { "key": {"type":"string"}, "desc": {"type":"string"} } } },
+    "version": { "type": "string" }
+  },
+  "required": ["conceptKey", "class", "language", "sections", "version"]
+}

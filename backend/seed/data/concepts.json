@@ -1,0 +1,77 @@
+[
+  {
+    "key": "math.add_sub.word",
+    "subject": "Math",
+    "class": 3,
+    "objectives": [
+      {
+        "key": "sum_within_100",
+        "desc": "Add/subtract numbers within 100"
+      },
+      {
+        "key": "word_problems",
+        "desc": "Apply operations in simple word problems"
+      }
+    ]
+  },
+  {
+    "key": "math.fractions.basics",
+    "subject": "Math",
+    "class": 5,
+    "objectives": [
+      {
+        "key": "proper_vs_improper",
+        "desc": "Differentiate proper & improper fractions"
+      },
+      {
+        "key": "equivalence",
+        "desc": "Find equivalent fractions"
+      }
+    ]
+  },
+  {
+    "key": "math.decimals.place_value",
+    "subject": "Math",
+    "class": 5,
+    "objectives": [
+      {
+        "key": "tenths_hundredths",
+        "desc": "Understand tenths & hundredths"
+      },
+      {
+        "key": "addition_decimals",
+        "desc": "Add decimals"
+      }
+    ]
+  },
+  {
+    "key": "math.percentage.basics",
+    "subject": "Math",
+    "class": 5,
+    "objectives": [
+      {
+        "key": "percent_of_number",
+        "desc": "Find x% of N"
+      },
+      {
+        "key": "discount",
+        "desc": "Apply % discount"
+      }
+    ]
+  },
+  {
+    "key": "math.std.basics",
+    "subject": "Math",
+    "class": 6,
+    "objectives": [
+      {
+        "key": "speed",
+        "desc": "Compute speed given distance & time"
+      },
+      {
+        "key": "unit_conversion",
+        "desc": "Convert units (km/h to m/s)"
+      }
+    ]
+  }
+]

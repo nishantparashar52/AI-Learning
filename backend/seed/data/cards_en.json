@@ -1,0 +1,187 @@
+[
+  {
+    "conceptKey": "math.add_sub.word",
+    "class": 3,
+    "language": "en",
+    "sections": [
+      {
+        "type": "story",
+        "text": "Riya buys 35 mangoes and gives 12 to friends. How many left?"
+      },
+      {
+        "type": "examples",
+        "items": [
+          "35 - 12 = 23",
+          "\u20b925 + \u20b930 = \u20b955"
+        ]
+      },
+      {
+        "type": "misconception",
+        "text": "Subtracting larger from smaller gives negative\u2014check order."
+      },
+      {
+        "type": "practice_hint",
+        "text": "Line up numbers and subtract carefully."
+      }
+    ],
+    "objectives": [
+      {
+        "key": "sum_within_100",
+        "desc": "Add/subtract numbers within 100"
+      },
+      {
+        "key": "word_problems",
+        "desc": "Apply operations in simple word problems"
+      }
+    ],
+    "version": "1.0.0"
+  },
+  {
+    "conceptKey": "math.fractions.basics",
+    "class": 5,
+    "language": "en",
+    "sections": [
+      {
+        "type": "story",
+        "text": "Pizza cut into 8 slices\u2014eating 3 is 3/8."
+      },
+      {
+        "type": "examples",
+        "items": [
+          "1/2 = 2/4",
+          "3/8 is proper; 9/8 is improper"
+        ]
+      },
+      {
+        "type": "misconception",
+        "text": "Comparing fractions: check same denominator or convert."
+      },
+      {
+        "type": "practice_hint",
+        "text": "Use visual models to see parts of a whole."
+      }
+    ],
+    "objectives": [
+      {
+        "key": "proper_vs_improper",
+        "desc": "Differentiate proper & improper fractions"
+      },
+      {
+        "key": "equivalence",
+        "desc": "Find equivalent fractions"
+      }
+    ],
+    "version": "1.0.0"
+  },
+  {
+    "conceptKey": "math.decimals.place_value",
+    "class": 5,
+    "language": "en",
+    "sections": [
+      {
+        "type": "story",
+        "text": "Bus fare \u20b912.50 means twelve rupees and fifty paise (0.50)."
+      },
+      {
+        "type": "examples",
+        "items": [
+          "0.3 = 3/10",
+          "0.25 + 0.75 = 1.00"
+        ]
+      },
+      {
+        "type": "misconception",
+        "text": "0.5 is not 5; decimal place matters."
+      },
+      {
+        "type": "practice_hint",
+        "text": "Align decimal points when adding."
+      }
+    ],
+    "objectives": [
+      {
+        "key": "tenths_hundredths",
+        "desc": "Understand tenths & hundredths"
+      },
+      {
+        "key": "addition_decimals",
+        "desc": "Add decimals"
+      }
+    ],
+    "version": "1.0.0"
+  },
+  {
+    "conceptKey": "math.percentage.basics",
+    "class": 5,
+    "language": "en",
+    "sections": [
+      {
+        "type": "story",
+        "text": "Koramangala store offers 20% discount on a \u20b9500 bag."
+      },
+      {
+        "type": "examples",
+        "items": [
+          "20% of 500 = 100",
+          "Final price = 500 - 100 = \u20b9400"
+        ]
+      },
+      {
+        "type": "misconception",
+        "text": "20% of 500 is rate\u00d7base, not 500 \u00f7 20."
+      },
+      {
+        "type": "practice_hint",
+        "text": "Convert % to decimal \u2192 multiply by base."
+      }
+    ],
+    "objectives": [
+      {
+        "key": "percent_of_number",
+        "desc": "Find x% of N"
+      },
+      {
+        "key": "discount",
+        "desc": "Apply % discount"
+      }
+    ],
+    "version": "1.0.0"
+  },
+  {
+    "conceptKey": "math.std.basics",
+    "class": 6,
+    "language": "en",
+    "sections": [
+      {
+        "type": "story",
+        "text": "A bus travels 60 km in 1 hour. Speed = 60 km/h."
+      },
+      {
+        "type": "examples",
+        "items": [
+          "Distance = Speed \u00d7 Time",
+          "m/s = (km/h) \u00d7 1000/3600"
+        ]
+      },
+      {
+        "type": "misconception",
+        "text": "Don\u2019t mix units; convert before computing."
+      },
+      {
+        "type": "practice_hint",
+        "text": "Write knowns and apply formula carefully."
+      }
+    ],
+    "objectives": [
+      {
+        "key": "speed",
+        "desc": "Compute speed given distance & time"
+      },
+      {
+        "key": "unit_conversion",
+        "desc": "Convert units (km/h to m/s)"
+      }
+    ],
+    "version": "1.0.0"
+  }
+]

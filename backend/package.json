@@ -1,0 +1,23 @@
+{
+  "name": "learning-platform-backend-poc",
+  "version": "0.4.0",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "seed:concepts": "node seed/seed_concepts.js",
+    "seed:questions": "node seed/seed_questions.js",
+    "seed:assignments": "node seed/seed_assignments.js",
+    "seed:users": "node seed/seed_users.js",
+    "seed:all": "npm run seed:concepts && npm run seed:questions && npm run seed:users && npm run seed:assignments"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.6.0",
+    "morgan": "^1.10.0"
+  }
+}
